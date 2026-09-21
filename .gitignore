@@ -1,0 +1,11 @@
+# macOS / IDE
+.DS_Store
+~$*.xlsx
+*.swp
+
+# OCR cache and compiled helper
+_ocr_work/
+ocr
+
+# Optional local combined workbook
+итоги_централизованных_торгов.xlsx
