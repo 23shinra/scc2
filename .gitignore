@@ -3,9 +3,17 @@
 ~$*.xlsx
 *.swp
 
-# OCR cache and compiled helper
+# Downloaded PDFs and generated Excel (local only)
+pdfs/
+excel/
+pdf/
+xlsx/
+
+# OCR cache, compiled helper, sync state
 _ocr_work/
 ocr
+state/
 
 # Optional local combined workbook
 итоги_централизованных_торгов.xlsx
+*.log
